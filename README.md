@@ -7,7 +7,7 @@ Getting started:
 
 install dependencies:
 ```
-npm i
+yarn install
 ```
 
 Run the application:
