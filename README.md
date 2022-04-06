@@ -5,12 +5,20 @@ Meant to be used for debugging.
 
 Getting started:
 
-install dependencies:
-```
+Install dependencies:
+
+```bash
 yarn install
 ```
 
 Run the application:
-```
+
+```bash
 npm start
+```
+
+Create/Add Mapbox token to .env:
+
+```
+REACT_APP_MAPBOX_TOKEN=**token goes here**
 ```
